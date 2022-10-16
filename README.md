@@ -56,4 +56,3 @@ The last model that we have selected performed well (Accuracy > 75%) and exceed 
 This model could be used for effectively detecting depressed individuals on social media. Therefore, this study exhibits the model that can help reddit to detect depressed people who need emotional support and someone to help solving their problems. In Social Media posts which contain the words : thoughts, alive, felt, therapy should be flagged as cause for concern and notify the family so they can offer care and support.
 
 However, the model can be improved by collecting more related data, including other platforms, and selecting the better classification model to increase the accuracy of prediction. 
-# Project-3-Web-APIs-Classification-Depression-Diagnosis-based-on-Natural-Language-Processing
